@@ -1,0 +1,26 @@
+# xcode noise
+build/*
+*.pbxuser
+*.mode1v3
+*.xcuserstate
+*.Breakpoints.xcbkptlist
+*~
+*xcschememanagement.plist
+*xcscheme
+project.pbxproj.mergesave
+*Breakpoints.xcbkptlist
+
+*xcuserdata
+*xcshareddata
+*xcuserdata/**
+*xcshareddata/**
+*xccheckout
+
+# osx noise
+.DS_Store
+profile
+
+# pods
+/Pods
+
+*Keys.plist

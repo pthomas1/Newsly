@@ -1,0 +1,22 @@
+PODS:
+  - DateToolsSwift (2.0.1)
+  - SDWebImage (4.0.0):
+    - SDWebImage/Core (= 4.0.0)
+  - SDWebImage/Core (4.0.0)
+  - XCGLogger (4.0.0):
+    - XCGLogger/Core (= 4.0.0)
+  - XCGLogger/Core (4.0.0)
+
+DEPENDENCIES:
+  - DateToolsSwift
+  - SDWebImage
+  - XCGLogger
+
+SPEC CHECKSUMS:
+  DateToolsSwift: d6bdef0956bf88e7d27414d24278f5b392b47a5d
+  SDWebImage: 76a6348bdc74eb5a55dd08a091ef298e56b55e41
+  XCGLogger: 38063ea89b4c8b23232d18efd2e12eb0005f3ea4
+
+PODFILE CHECKSUM: 52a36a64ae8082fe5808e587885721ba43ee5cc2
+
+COCOAPODS: 1.2.0
